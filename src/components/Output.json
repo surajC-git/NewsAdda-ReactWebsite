@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Australian Open men's final: Djokovic v Tsitsipas",
+            "description": "Listen to BBC Radio 5 Live commentary and follow text updates of the Australian Open men's final between Novak Djokovic and Stefanos Tsitsipas.",
+            "url": "http://www.bbc.co.uk/sport/live/tennis/62998399",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-01-29T08:22:27.4787423Z",
+            "content": "As well as the Serbs in Melbourne, millions more will be excitedly jumping out of bed back home and glued to their television screens this morning. \r\n\"It will be 9:30am back there and I imagine peopl… [+1246 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Richard Sharp: Boris Johnson was told to stop asking for loan advice",
+            "description": "The then-PM was warned off talking to incoming BBC chairman Richard Sharp, the Sunday Times reports.",
+            "url": "http://www.bbc.co.uk/news/uk-64440335",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12ABA/production/_127847467_johnson-index-pa.jpg",
+            "publishedAt": "2023-01-29T07:52:21.4310046Z",
+            "content": "Links between Boris Johnson and BBC chairman Richard Sharp are under fresh scrutiny, following a report that the then-prime minister was told to stop asking Mr Sharp for financial \"advice\".\r\nMr Sharp… [+3717 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New US childhood obesity guidelines criticised by families",
+            "description": "Some families worry that new guidelines from US paediatricians prioritise surgery and intensive therapy.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64427931",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17682/production/_128447859_6df1d6fc9531e0c49ffb2674e2e27583c96099280_166_4032_22681000x563.jpg",
+            "publishedAt": "2023-01-29T05:52:22.4807773Z",
+            "content": "In the US, new guidelines on how paediatricians should treat childhood obesity have been met with some criticism. \r\nThe American Academy of Paediatrics has recommended intensive therapy for children … [+4541 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Trump's 2024 campaign has a different look, for now",
+            "description": "The former president makes his first foray out of Florida and shows signs of a serious re-election bid.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64442720",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B5E/production/_128449291_gettyimages-1460358998.jpg",
+            "publishedAt": "2023-01-29T02:07:21.1968971Z",
+            "content": "Donald Trump's announcement that he's running for US president in 2024 wasn't a lark, or a ploy to avoid prosecution, as some have speculated. He's hitting the road and laying the kind of groundwork … [+5978 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Television frontman Tom Verlaine dies at 73",
+            "description": "His band rose to fame in the 1970s New York punk scene, scoring UK hits including Marquee Moon.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-64442824",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C06/production/_128449098_gettyimages-478163738.jpg",
+            "publishedAt": "2023-01-29T00:07:21.4940279Z",
+            "content": "Guitarist Tom Verlaine, who rose to fame in the 1970s New York punk scene as the frontman of rock band Television, has died at the age of 73.\r\nIn their heyday, Television scored three UK Top 40 hit s… [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Unanswered questions from videos of Tyre Nichols' arrest",
+            "description": "The footage shows a brutal beating but we still don't know why officers decided to stop his car.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64442019",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18276/production/_128443989_57c3b58b2313f63eba9b6e4691f4cfa2b6448b9c.jpg",
+            "publishedAt": "2023-01-28T23:37:21.5886869Z",
+            "content": "Media caption, Watch: Footage shows the violent arrest of Tyre Nichols\r\nEveryone who has seen the footage of Tyre Nichols' fatal encounter with five Memphis police officers has come to the same concl… [+5291 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tyre Nichols: Police unit is disbanded after death",
+            "description": "The so-called Scorpion special unit will be disbanded after its officers were seen beating Mr Nichols.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64442756",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-01-28T22:22:16.072011Z",
+            "content": "Media caption, Watch: New footage shows deadly arrest of Tyre Nichols\r\nThe Memphis Police Department has disbanded the so-called Scorpion special unit, whose officers are accused of murdering Tyre Ni… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Petr Pavel: Ex-general beats populist rival in Czech election",
+            "description": "Defeated former Prime Minister Andrej Babis conceded to newly elected Petr Pavel on Saturday afternoon.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64438955",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE96/production/_128447156_gettyimages-1246590216.jpg",
+            "publishedAt": "2023-01-28T15:52:22.2903011Z",
+            "content": "Retired Nato general Petr Pavel has been elected as the new president of the Czech Republic, seeing off his populist challenger Andrej Babis. \r\nThe 61-year-old took 57.6% of the vote, initial results… [+1661 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Toronto struggles with wave of transit violence",
+            "description": "There have been seven reported incidents of violence in seven days, fuelling worry among commuters.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64408450",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58FD/production/_128418722_gettyimages-1271923321.jpg",
+            "publishedAt": "2023-01-28T14:37:21.0300677Z",
+            "content": "Commuters in Toronto have been navigating the city's public transport system with growing unease, following a surge of violent incidents targeting both riders and operators.\r\nAs of Friday, there were… [+5616 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jerusalem shooting: Thirteen-year-old held over second attack in days",
+            "description": "A Palestinian boy is arrested after opening fire in the city, a day after an attack killed seven people.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-64438905",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80B0/production/_128444923_ee0d9f4f944cf1b7dcfd0ba9de9ea5e41eadd83e.jpg",
+            "publishedAt": "2023-01-28T13:07:18.7182174Z",
+            "content": "A 13-year-old Palestinian boy was behind a shooting in Jerusalem on Saturday, Israeli police have said. \r\nTwo people - a father and son - were seriously wounded, while the attacker was shot and injur… [+4475 chars]"
+        }
+    ]
+}
